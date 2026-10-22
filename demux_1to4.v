@@ -1,4 +1,4 @@
-module demux_4to1( 	
+module demux_1to4( 	
     input [3:0] din,       // the 4-bit line from the mux
     input [1:0] sel,       // which receiver
     input enable,          // master on/off
