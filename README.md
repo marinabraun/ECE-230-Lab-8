@@ -15,6 +15,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 Group 9: Marina, Evan
 
 ## Summary
+In this lab we designed and implemented a 4 to 1 multiplexer and a 1 to 4 demultiplexer that corresponded to the data from a set of users and the receivers were a set of businesses in the town.   
 
 ## Lab Questions
 
