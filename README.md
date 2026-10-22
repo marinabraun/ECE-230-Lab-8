@@ -12,14 +12,17 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+Group 9: Marina, Evan
 
 ## Summary
 
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
+A multiplexer is functionally a way to have many inputs with a method of choosing one of them with a different input (selector) that chooses which of the inputs should make it through the circuit. They are useful because they allow us to share multiple input sources while only using one output.
 
 ### In plain English describe the function and use of a demultiplexer.
+A demultiplexer is the inverse of a multiplexer in that it takes in one input and routes it to one of several outputs. Demultiplexers are useful because they let a single shared line deliver data to multiple destinations so each destination doesn’t need its own separate connection from the source. 
 
 ### What other uses might these circuits have? (Think Shannon’s)
-
+These circuits can be used to represent any logic function because of Shannon's expansion theorem which states that any boolean function can be split on one of it's variables.
