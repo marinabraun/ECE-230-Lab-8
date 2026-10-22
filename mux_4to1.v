@@ -1,10 +1,3 @@
-/* design of a Multiplexer using always@ procedual block
-   mutiplesers ports: 
-		one output data line 
-		n select input lines
-		2**n inputs 
-	it rounts one of the inputs to the output dependong on the value of the slect inputs */
-	
 module mux_4to1( 	
 	input [3:0] A,      // CEO   (sel 00)
 	input [3:0] B,      // You   (sel 01)
